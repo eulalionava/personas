@@ -27,6 +27,15 @@
 .App-link {
   color: #61dafb;
 }
+.UserDetailCover{
+  width: 100%;
+  height: 40vh;
+}
+
+.UserDetailBody{
+  background: #e8e8e8;
+  height: 60vh;
+}
 
 @keyframes App-logo-spin {
   from {

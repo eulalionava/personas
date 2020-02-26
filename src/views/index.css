@@ -1,0 +1,45 @@
+body{
+    background: #212121;
+}
+
+.card{
+    width: 40%;
+    cursor: pointer;
+}
+.card-content{
+    display: flex !important;
+}
+
+.UserItem-leftBox{
+    width: 20%;
+}
+
+.Useritem-rightBox{
+    width: 80%;
+}
+
+.UserItem-name{
+    font-size: 20px;
+}
+.UserItem-facebook{
+    font-size: 15px;
+}
+
+.Home{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.Home_preLoader{
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+}
+
+.UserPost{
+    display: flex;
+    flex-direction: column;
+    background-color: #fff;
+}
